@@ -56,7 +56,7 @@ const Sidenav = () => {
           </a>
           <a
             onClick={handleNav}
-            href="https://drive.google.com/file/d/1K2cqeHp9wR9QJly4kSL9AvxWesQQCA-W/view?usp=sharing"
+            href="https://drive.google.com/file/d/1svNFyk3y1-oh8s7Vi6qkpN35yMJwr6X7/view?usp=sharing"
             target="blank"
             className="flex flex-row w-[75%] justify-center items-center rounded-full shadow-lg bg-gradient-to-b from-[#D3CAE2] to-[#E6C17A] shadow-gray-400 m-2 p-4  cursor-pointer hover:scale-110 ease-in duration-75"
           >
